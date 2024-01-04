@@ -33,5 +33,5 @@ Acknowledgements
 This project was developed as part of Seneca College’s curriculum for the Course: OOP-345.
 
 ## Copyright © 2024 by S M Shamayel Asim
-## Asim, Shamayel. (2024). C++ Assembly Line Simulation Project [Software]. Available at https://github.com/smsasim/AssemblyLineSimulator_CPP
+## Asim, Shamayel. (2024). C++ Assembly Line Simulation Project [Software]. Available at https://github.com/smsasim/CPP_ObjectOriented_AssemblySim
 
